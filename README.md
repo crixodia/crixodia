@@ -10,5 +10,7 @@
 - 📝 I regularly write articles on [cristianbastidas.com/my-blog/](https://cristianbastidas.com/my-blog/)
 
 - 📫 How to reach me **https://cristianbastidas.com/**
+  
+</br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crixodia&theme=react&hide_border=true)](https://github.com/crixodia)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=crixodia&theme=react&hide_border=true" alt="GitHub Streak" style="display:block; margin-left: auto; margin-right:auto;">
