@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hand Music Changer](https://github.com/crixodia/hmc)
 
-- 🌱 I’m currently learning **Python for machine learning**
+- 🌱 I’m currently learning **Python for back end development**
 
 - 📝 I regularly write articles on [cristianbastidas.com/my-blog/](https://cristianbastidas.com/my-blog/)
 
