@@ -14,7 +14,7 @@
 - 📝 I regularly write articles on [my blog](https://cristianbastidas.com/blog/)
 
 - 📫 How to reach me **[cristianbastidas.com](https://cristianbastidas.com)**
-  
-</br>
 
-[![@crixodia's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=crixodia&theme=github-dark-blue&hide_border=true)](https://github.com/crixodia)
+<p align="center">
+  <img width="460" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=crixodia&theme=github-dark-blue&hide_border=true">
+</p>
