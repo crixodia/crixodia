@@ -1,17 +1,17 @@
-[![@crixodia's Twitter](<https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white>)](https://www.twitter.com/crixodia) [![@crixodia's Linkedin](<https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>)](https://www.linkedin.com/in/crixodia)
+[![@crixodia's Linkedin](<https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>)](https://www.linkedin.com/in/crixodia)
 
 [![@crixodia's Holopin board](https://holopin.me/crixodia)](https://holopin.io/@crixodia)
 
 <h1 align="center">Hi 🫡, I'm Cristian Bastidas</h1>
-<h3 align="center">A passionate computer science student from Ecuador</h3>
+<h3 align="center">A developer from Ecuador</h3>
 
 </br>
 
-- 🔭 I’m currently working on [PHP Numerical Analysis](https://github.com/crixodia/php-numerical-analysis)
+- 🔭 I’m currently working on [Advent of Code Solver](https://aoc.crixodia.com/)
 
-- 🌱 I’m currently learning **R for data science**
+- 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [my blog](https://crixodia.com/blog/)
+- 📝 I regularly write articles on [my blog](https://blog.crixodia.com/)
 
 - 📫 How to reach me **[crixodia.com](https://crixodia.com)**
 
