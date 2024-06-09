@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=crixodia&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=crixodia&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)
+![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=crixodia&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)
 </p>
