@@ -18,3 +18,7 @@
 <p align="center">
   <img width="460" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=crixodia&theme=github-dark-blue&hide_border=true">
 </p>
+
+<p align="center">
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=crixodia&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=crixodia&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)]]
+</p>
